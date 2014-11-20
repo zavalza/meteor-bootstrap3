@@ -1,4 +1,4 @@
-fixthis
+meteor-bootstrap3
 =======
 
-Listen to the crowd on what to fix first
+use this repository to easily start working with meteor 1.0
